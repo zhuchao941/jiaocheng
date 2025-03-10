@@ -36,8 +36,9 @@ jobs:
           source: ./
           destination: ./_site
       # 替换所有 HTML 文件中的 .md 链接
-      - name: Replace .md links in HTML
+      - name: Fix permissions and replace .md links
         run: |
+          chmod -R u+w ./_site
           find ./_site -name "index.html" -exec sed -i 's|\.md||g' {} \;
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
