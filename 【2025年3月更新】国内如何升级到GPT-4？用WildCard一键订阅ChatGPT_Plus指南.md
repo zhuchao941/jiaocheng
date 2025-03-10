@@ -30,18 +30,18 @@
 1. **进入官网**  
    点击进入 [WildCard](https://yeka.ai/i/VTRKETKQ)，在首页点击“立即体验”。
 
-   ![WildCard注册页面](https://puputeju-tc.oss-cn-beijing.aliyuncs.com/9zqkCjSZUV3Ex62.png)
+   ![WildCard注册页面](https://camo.githubusercontent.com/6ca02197fc6bcf7412bca6410cf24ea3d235bf8394215f8adefc29fcf9464470/68747470733a2f2f7075707574656a752d74632e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f397a716b436a535a555633457836322e706e67)
 
 2. **点击开卡**  
    点击“立即开卡”，输入手机号接收验证码。  
    **注意**：使用邀请码 **VTRKETKQ** 可减免 2 美元开卡费用。
 
-   ![输入手机号](https://puputeju-tc.oss-cn-beijing.aliyuncs.com/vgazkZY3XwiO5Ip.png)
+   ![输入手机号](https://camo.githubusercontent.com/4d559246b51ce4e6980ca6dcd184bb86d431099a5899cfb459c22b7ecd03f003/68747470733a2f2f7075707574656a752d74632e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f7667617a6b5a59335877694f3549702e706e67)
 
 3. **填写个人信息**  
    按页面提示填写姓名、邮箱等信息，并进行支付宝认证（无需人脸或身份证验证）。
 
-   ![支付宝认证](https://puputeju-tc.oss-cn-beijing.aliyuncs.com/4MVgEYJUdOL735e.png)
+   ![支付宝认证](https://camo.githubusercontent.com/35b68a57242fcf4390927af943245ffe62f3387d9247cab28f2026cc4227eee0/68747470733a2f2f7075707574656a752d74632e6f73732d636e2d6265696a696e672e616c6979756e63732e636f6d2f344d566745594a55644f4c373335652e706e67)
 
 4. **选择开通时长**  
    根据需求选择卡片有效期（推荐选择两年，性价比更高）。完成支付后稍等片刻，虚拟卡开通成功。
@@ -53,7 +53,7 @@
 1. **登录 WildCard 账户**  
    开卡成功后，进入“我的卡片”页面，查看虚拟信用卡信息。
 
-   ![查看虚拟卡信息](https://puputeju-tc.oss-cn-beijing.aliyuncs.com/XbydEf23nkMNPts.png)
+   ![查看虚拟卡信息](https://camo.githubusercontent.com/07eaea67315cfd66c6c5f412f622b83000401202145fb68b1f24ca59e38101c3/68747470733a2f2f6f70656e2d61692d626c6f672e6f73732d636e2d6e616e6a696e672e616c6979756e63732e636f6d2f696d672f3230323430383038323030363334342e706e67)
 
 2. **使用虚拟卡完成支付**  
    进入 ChatGPT 官方订阅页面，将虚拟卡信息（卡号、有效期、CVV 等）填入支付选项中。  

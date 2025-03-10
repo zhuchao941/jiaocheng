@@ -13,7 +13,7 @@
 - [ChatGPT 注册与充值](【2025年3月更新】ChatGPT注册与充值全流程指南.md) - 包含注册和付费升级的完整流程
 - [手机使用 ChatGPT 教程](【2025年3月更新】如何在手机上使用ChatGPT？一键体验GPT-4.0的完整教程.md) - 在移动设备上使用 ChatGPT
 - [升级到 ChatGPT Plus](【2025年3月更新】2025年最新教程：如何使用虚拟信用卡升级到ChatGPT_Plus(GPT-4.0).md) - 虚拟信用卡升级方法
-- [国内升级到 GPT-4](【2025年3月更新】国内如何升级到GPT-4？用WildCard一键订阅ChatGPT Plus指南.md) - 使用 WildCard 订阅 ChatGPT Plus
+- [国内升级到 GPT-4](【2025年3月更新】国内如何升级到GPT-4？用WildCard一键订阅ChatGPT_Plus指南.md) - 使用 WildCard 订阅 ChatGPT Plus
 
 ### Claude AI 系列
 - [Claude AI 使用指南](【2025年3月更新】Claude_AI使用指南：如何免费体验Claude_AI？.md) - 免费体验 Claude AI 的方法
