@@ -35,11 +35,14 @@ jobs:
         with:
           source: ./
           destination: ./_site
-      # 替换所有 HTML 文件中的 .md 链接
+      # 确保权限并替换链接
       - name: Fix permissions and replace .md links
         run: |
-          chmod -R u+w ./_site
-          find ./_site -name "index.html" -exec sed -i 's|\.md||g' {} \;
+          ls -ld ./_site  # 调试：查看目录权限
+          ls -l ./_site   # 调试：查看文件权限
+          chmod -R u+w ./_site || echo "Permission fix failed, trying alternative"
+          find ./_site -name "*.html" -exec sed -i 's|\.md||g' {} \; || \
+          find ./_site -name "*.html" -exec sh -c 'sed "s|\.md||g" "{}" > "{}.tmp" && mv "{}.tmp" "{}"' \;
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
