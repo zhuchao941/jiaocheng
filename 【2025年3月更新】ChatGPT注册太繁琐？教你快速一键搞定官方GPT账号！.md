@@ -1,8 +1,7 @@
 # ChatGPT注册太繁琐？教你快速一键搞定官方GPT账号！
 
 ## WildCard | 一分钟注册，轻松订阅海外线上服务
-https://yeka.ai/i/VTRKETKQ  
-使用门槛极低，微信支付宝均可开通使用。支持开通各类海外平台：ChatGPT、Claude、Google Play、Apple Store、OpenAI、Twitter、Patreon、MidJourney、Amazon、POE、Microsoft、Facebook、GitHub、Telegram、PayPal 等各类海淘订阅平台。使用邀请码：**VTRKETKQ**，立享消费0手续费，减免开卡费用。
+[WildCard](https://yeka.ai/i/VTRKETKQ)使用门槛极低，微信支付宝均可开通使用。支持开通各类海外平台：ChatGPT、Claude、Google Play、Apple Store、OpenAI、Twitter、Patreon、MidJourney、Amazon、POE、Microsoft、Facebook、GitHub、Telegram、PayPal 等各类海淘订阅平台。使用邀请码：**VTRKETKQ**，立享消费0手续费，减免开卡费用。
 
 ---
 
