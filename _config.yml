@@ -1,0 +1,3 @@
+theme: minima
+markdown: kramdown
+permalink: pretty  # 可选，去掉后缀
