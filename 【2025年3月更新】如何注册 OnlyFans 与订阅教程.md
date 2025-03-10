@@ -51,7 +51,7 @@ WildCard 是一款功能强大的虚拟信用卡，支持国内用户轻松完�
 #### 步骤：
 
 1. **注册 WildCard**  
-   点击查看 ☞ [WildCard | 一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)  
+   点击查看 ☞ [WildCard  一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)  
    使用邀请码：**VTRKETKQ**，立享 0 手续费优惠，减免开卡费用。
 
 2. **充值虚拟卡**  
@@ -99,7 +99,7 @@ WildCard 是一款功能强大的虚拟信用卡，支持国内用户轻松完�
 ## 总结
 
 通过 WildCard 虚拟卡，国内用户可以轻松订阅 OnlyFans 等海外服务。  
-**点击查看 ☞ [WildCard | 一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)**  
+**点击查看 ☞ [WildCard  一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)**  
 使用邀请码 **VTRKETKQ**，立享开卡优惠和免手续费体验。
 
 ![WildCard 虚拟卡](https://aipanda-chatgpt.github.io/img/chatgpt-register-2024.assets/3.PNG)

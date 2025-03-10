@@ -15,7 +15,7 @@ FanBOX 通常需要通过 PayPal 或信用卡支付，但如果没有双币种�
 ### 推荐虚拟卡平台：WildCard
 
 **WildCard | 一分钟注册，轻松订阅海外线上服务**  
-点击查看 ☞ [WildCard | 一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)  
+点击查看 ☞ [WildCard  一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)  
 使用邀请码：**VTRKETKQ**，享受免手续费优惠并减免开卡费用。
 
 **WildCard 优势**：
@@ -77,7 +77,7 @@ FanBOX 通常需要通过 PayPal 或信用卡支付，但如果没有双币种�
 
 通过 FanBOX，粉丝可以直接支持喜欢的画师、虚拟主播等创作者。如果没有信用卡，通过 WildCard 虚拟卡即可轻松完成支付。WildCard 不仅支持 FanBOX，还能广泛用于其他海外平台，安全便捷，值得推荐。
 
-点击查看 ☞ [WildCard | 一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)  
+点击查看 ☞ [WildCard  一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)  
 使用邀请码：**VTRKETKQ**，立享优惠，快速开通！
 
 快来支持您最爱的创作者吧！

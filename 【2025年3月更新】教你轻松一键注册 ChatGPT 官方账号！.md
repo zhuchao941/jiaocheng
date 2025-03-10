@@ -6,7 +6,7 @@
 
 **WildCard 虚拟信用卡** 是一款便捷的支付工具，支持开通 ChatGPT、Claude、MidJourney 等多个国际平台订阅。使用 WildCard，不仅操作简单，还能享受更多优惠！
 
-点击查看 ☞ [WildCard | 一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)  
+点击查看 ☞ [WildCard  一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)  
 **使用邀请码：VTRKETKQ，立享消费 0 手续费，免开卡费用！**
 
 ---
@@ -27,7 +27,7 @@ ChatGPT 广泛应用于编程、内容创作、学习辅助等领域，是现代
 
 #### 开通步骤：
 
-1. **点击查看 ☞ [WildCard | 一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)**。
+1. **点击查看 ☞ [WildCard  一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)**。
 2. 进入 WildCard 官网后，点击 **立即体验**。
 3. 在页面中选择“**立即开卡**”，输入手机号码并接收验证码。
 4. 填写基本信息（如姓名、身份证信息）并完成支付宝实名认证。
@@ -62,7 +62,7 @@ WildCard 提供了一键注册 ChatGPT 官方账号的服务，让注册流程�
 - **优惠多多**：使用邀请码 **VTRKETKQ**，可享开卡优惠和消费减免。
 - **安全可靠**：虚拟信用卡按需充值，无需担心余额被盗。
 
-点击查看 ☞ [WildCard | 一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)  
+点击查看 ☞ [WildCard  一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)  
 立即体验简单快捷的全球订阅服务！
 
 ---
@@ -92,6 +92,6 @@ WildCard 是一款经过严格审核的虚拟信用卡工具，支持国内用�
 
 对于那些想要体验 ChatGPT 的用户来说，**WildCard 是最方便的工具之一**。通过 WildCard 虚拟信用卡和一键注册服务，你可以轻松避开繁琐的流程，快速开启智能助手的体验之旅。
 
-立即行动，体验 WildCard 的便捷服务吧！点击查看 ☞ [WildCard | 一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)
+立即行动，体验 WildCard 的便捷服务吧！点击查看 ☞ [WildCard  一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)
 
 ---

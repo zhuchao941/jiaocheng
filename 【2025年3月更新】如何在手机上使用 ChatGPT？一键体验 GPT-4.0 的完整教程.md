@@ -86,7 +86,7 @@ GPT-4.0 是 OpenAI 发布的最新一代大型语言模型，不仅能提供实�
 - **费用透明**：无额外消费手续费。
 - **专属优惠**：使用邀请码 **VTRKETKQ**，立享开卡减免和 0 手续费。
 
-**点击查看 ☞ [WildCard | 一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)**
+**点击查看 ☞ [WildCard  一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)**
 
 ---
 
@@ -123,7 +123,7 @@ GPT-4.0 是 OpenAI 发布的最新一代大型语言模型，不仅能提供实�
 通过本文，你可以轻松在手机上下载安装 ChatGPT，并通过 WildCard 虚拟卡订阅 GPT-4.0。无论是学习、工作还是娱乐，GPT-4.0 都能带来高效的体验。
 
 立即体验 GPT-4.0 的强大功能：  
-**点击查看 ☞ [WildCard | 一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)**  
+**点击查看 ☞ [WildCard  一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)**  
 使用邀请码 **VTRKETKQ**，立享开卡优惠和 0 手续费！
 
 ![成功开通 GPT-4.0](https://cdn.spoock.com/img/f0954982ed0734bf.webp)

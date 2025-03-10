@@ -25,7 +25,7 @@ YouTube Premium（原名 YouTube Red）提供一系列尊享服务，包括 **�
 
 推荐使用 **WildCard | 一分钟注册，轻松订阅海外线上服务**，适合订阅包括 YouTube Premium 在内的各种国际服务。
 
-点击查看 ☞ [WildCard | 一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)  
+点击查看 ☞ [WildCard  一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)  
 使用邀请码：**VTRKETKQ**，立享 0 手续费，减免开卡费用。
 
 #### 开通步骤：
@@ -72,7 +72,7 @@ YouTube Premium（原名 YouTube Red）提供一系列尊享服务，包括 **�
 
 通过上述步骤，您可以轻松订阅 YouTube Premium，并享受更优惠的价格。家庭计划不仅方便，还能与家人或朋友共享服务，进一步分摊费用，降低人均成本。记得定期管理您的订阅，以便始终享受无广告的高品质观影体验！
 
-点击查看 ☞ [WildCard | 一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)  
+点击查看 ☞ [WildCard  一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)  
 使用邀请码：**VTRKETKQ**，立减开卡费用，体验更便捷的支付服务！
 
 ---

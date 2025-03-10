@@ -17,7 +17,7 @@
 - **费用低廉**：无提现手续费，0 消费手续费。
 - **独家优惠**：使用邀请码 **VTRKETKQ**，立享开卡费用减免与 0 手续费。
 
-**点击查看 ☞ [WildCard | 一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)**
+**点击查看 ☞ [WildCard  一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)**
 
 ---
 
@@ -93,7 +93,7 @@ A: 建议使用 Proton.me 邮箱注册 ChatGPT，避免封号问题。
 通过本文介绍的 WildCard 开卡及 GPT-4 订阅教程，你可以轻松解决国内支付限制，快速解锁 ChatGPT 的高级功能。WildCard 提供的安全、便捷的虚拟信用卡服务，是订阅海外服务的不二之选。
 
 立即注册 WildCard，开启你的 GPT-4 体验：  
-**点击查看 ☞ [WildCard | 一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)**  
+**点击查看 ☞ [WildCard  一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)**  
 使用邀请码 **VTRKETKQ**，享受开卡费用减免与消费 0 手续费优惠！
 
 ---
