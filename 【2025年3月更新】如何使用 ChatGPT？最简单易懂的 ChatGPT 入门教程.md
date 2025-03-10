@@ -72,7 +72,7 @@ ChatGPT 会迅速生成答案，并以人类语言呈现给你。以下是一个
 - **费用低廉**：无消费手续费，开卡门槛低。
 - **多平台支持**：可用于 ChatGPT、Claude、MidJourney 等多个国际服务。
 
-**点击查看 ☞ [WildCard  一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)**  
+**点击查看 ☞ [WildCard ☞ 一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)**  
 使用邀请码 **VTRKETKQ**，立享 0 手续费与开卡费用减免。
 
 ---
@@ -95,7 +95,7 @@ ChatGPT 不仅仅是一个聊天机器人，它在多个领域都表现出色，
 ChatGPT 是一款强大的人工智能工具，无论是免费版本还是付费版本，都能满足日常学习与工作的多种需求。如果你想更深入地体验 ChatGPT 的功能，升级到 ChatGPT Plus 是非常值得的。
 
 立即通过 WildCard 订阅 ChatGPT Plus，解锁更强大的 AI 能力：  
-**点击查看 ☞ [WildCard  一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)**  
+**点击查看 ☞ [WildCard ☞ 一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)**  
 邀请码 **VTRKETKQ**，立享费用减免！
 
 ![ChatGPT 使用体验](https://explainthis.s3-ap-northeast-1.amazonaws.com/3d4ff7df738f40e79ecba4b65ca561b2.png)

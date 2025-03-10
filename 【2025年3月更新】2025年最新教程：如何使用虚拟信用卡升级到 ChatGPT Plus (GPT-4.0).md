@@ -39,7 +39,7 @@ Stripe 是 ChatGPT 的支付平台，常见支付失败问题包括 “您的信
 
 推荐平台：**WildCard**
 
-点击查看 ☞ [WildCard  一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)  
+点击查看 ☞ [WildCard ☞ 一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)  
 使用邀请码：**VTRKETKQ**，立减开卡费用，并享受无手续费消费。
 
 ---
@@ -108,7 +108,7 @@ WildCard 是经过验证的正规平台，支持支付宝充值和提现，确�
 
 按照本教程操作，您可以轻松升级到 ChatGPT Plus，享受 GPT-4 强大的功能。WildCard 提供了便捷、安全的虚拟信用卡解决方案，是国内用户突破限制的最佳选择。
 
-点击查看 ☞ [WildCard  一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)  
+点击查看 ☞ [WildCard ☞ 一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)  
 使用邀请码：**VTRKETKQ**，立享手续费全免，助您畅享全球优质服务！
 
 如有任何问题，欢迎留言交流！

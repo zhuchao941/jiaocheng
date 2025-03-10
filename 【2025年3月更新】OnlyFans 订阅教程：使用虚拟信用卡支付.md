@@ -18,7 +18,7 @@
 
 ### 注册步骤
 
-1. 访问 [WildCard  一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)。
+1. 访问 [WildCard ☞ 一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)。
 2. 点击右上角的 **注册** 按钮，进入注册页面。
 3. 按照提示填写信息，邀请码使用 **VTRKETKQ**，立享优惠。
 4. 选择 **支付宝实名认证**，按照指引完成身份验证。
@@ -51,7 +51,7 @@
 
 ## 推荐工具：WildCard
 
-如果你还没有国际信用卡，推荐使用 [WildCard  一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)。  
+如果你还没有国际信用卡，推荐使用 [WildCard ☞ 一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)。  
 - 使用门槛低，支持微信和支付宝支付。
 - 可快速开通 ChatGPT、Claude、Google Play、Apple Store、OpenAI、Twitter、Patreon 等多个国际服务。
 - 注册时使用邀请码 **VTRKETKQ**，立享消费 0 手续费，免开卡费用。

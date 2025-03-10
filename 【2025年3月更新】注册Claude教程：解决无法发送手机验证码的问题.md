@@ -20,7 +20,7 @@ Anthropic 最近推出了其全新大型语言模型 Claude 系列，该系列�
 4. **费用优惠**：使用 WildCard 邀请码 **VTRKETKQ** 注册，享受减免开卡费用及 0 手续费优惠。
 
 点击链接了解更多：  
-**点击查看 ☞ [WildCard  一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)**
+**点击查看 ☞ [WildCard ☞ 一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)**
 
 ---
 
@@ -77,7 +77,7 @@ Anthropic 最近推出了其全新大型语言模型 Claude 系列，该系列�
 注册 Claude 并体验其强大的功能不再是一件复杂的事情。通过 **WildCard** 平台，您可以轻松解决手机验证问题，同时享受到快捷、安全的注册流程。无论是 Claude 的个人用户还是专业应用场景，WildCard 都是最可靠的解决方案之一。
 
 点击链接开始注册：  
-**点击查看 ☞ [WildCard  一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)**  
+**点击查看 ☞ [WildCard ☞ 一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)**  
 使用邀请码 **VTRKETKQ**，享受消费 0 手续费及减免开卡费用优惠！
 
 ---

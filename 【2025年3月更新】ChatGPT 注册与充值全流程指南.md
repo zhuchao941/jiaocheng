@@ -31,7 +31,7 @@ ChatGPT 是由 OpenAI 开发的先进 AI 聊天工具，通过自然语言处理
 ### 方法 1：使用 WildCard 虚拟卡订阅
 
 **WildCard | 一分钟注册，轻松订阅海外线上服务**  
-点击查看 ☞ [WildCard  一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)  
+点击查看 ☞ [WildCard ☞ 一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)  
 使用邀请码：**VTRKETKQ**，立享免手续费优惠，减免开卡费用。
 
 #### 步骤：
@@ -73,6 +73,6 @@ ChatGPT 是由 OpenAI 开发的先进 AI 聊天工具，通过自然语言处理
 
 通过虚拟卡（WildCard）或苹果礼品卡两种方式，国内用户可以轻松开通 ChatGPT Plus 订阅，解锁 GPT-4 的强大功能。
 
-点击查看 ☞ [WildCard  一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)  
+点击查看 ☞ [WildCard ☞ 一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)  
 使用邀请码 **VTRKETKQ**，享受专属优惠！
 

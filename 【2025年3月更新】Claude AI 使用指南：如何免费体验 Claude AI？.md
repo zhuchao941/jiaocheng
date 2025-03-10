@@ -64,7 +64,7 @@ Claude 记忆用户的对话背景，使用户无需重复输入上下文内容�
 - 提供 24 小时免费网络体验。
 
 使用 WildCard 虚拟信用卡的步骤：
-1. 点击查看 ☞ [WildCard  一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)。
+1. 点击查看 ☞ [WildCard ☞ 一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)。
 2. 注册时使用邀请码 **VTRKETKQ**，立享消费 0 手续费，减免开卡费用。
 3. 获得虚拟卡后，可直接绑定 Claude，快速完成支付。
 

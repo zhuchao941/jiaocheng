@@ -28,7 +28,7 @@ ChatGPT，全称**Chat Generative Pre-trained Transformer**，是一种强大的
 
 开通WildCard虚拟信用卡，只需几分钟就可以完成。以下是操作步骤：
 
-1. 点击链接进入 [WildCard  一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)。
+1. 点击链接进入 [WildCard ☞ 一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)。
 2. 在网站首页点击“立即体验”。
 3. 注册并输入手机号码接收验证码。
 4. 填写个人信息并完成支付宝认证（无需人脸或身份证）。
@@ -63,7 +63,7 @@ ChatGPT，全称**Chat Generative Pre-trained Transformer**，是一种强大的
 不论是想探索AI世界，还是体验全新生产力工具，WildCard都是你的最佳选择。快点击链接注册，开启你的AI之旅吧！
 
 > **推荐注册服务**：  
-> [WildCard  一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)  
+> [WildCard ☞ 一分钟注册，轻松订阅海外线上服务](https://yeka.ai/i/VTRKETKQ)  
 > 使用邀请码：**VTRKETKQ**，减免开卡费用，立享手续费优惠！
 
 ---
